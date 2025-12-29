@@ -1,4 +1,4 @@
-package com.example.akillikampsapp
+package com.example.akillikampusapp
 
 import org.junit.Test
 

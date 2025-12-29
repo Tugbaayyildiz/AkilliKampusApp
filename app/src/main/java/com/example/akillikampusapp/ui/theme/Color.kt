@@ -1,4 +1,4 @@
-package com.example.akillikampsapp.ui.theme
+package com.example.akillikampusapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
